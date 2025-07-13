@@ -1,0 +1,13 @@
+langchain
+openai
+pydantic
+python-dotenv
+requests
+langchain_google_genai
+langchain-core
+langchain-community
+google-generativeai
+gradio
+reportlab
+# smtplib and email.message are part of Python standard library
+streamlit 

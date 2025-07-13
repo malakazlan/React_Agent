@@ -1,0 +1,14 @@
+langchain
+openai
+pydantic
+python-dotenv
+requests
+langchain_google_genai
+#langchain
+langchain
+langchain-core
+langchain-community
+google-generativeai
+python-dotenv
+langchain_google_genai
+
