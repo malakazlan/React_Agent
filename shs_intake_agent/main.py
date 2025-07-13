@@ -1,5 +1,5 @@
 import os
-os.environ["GOOGLE_API_KEY"] = "AIzaSyBwTwWNTyhEQwGBKydGecPWgti_s4mTY04"
+os.environ["GOOGLE_API_KEY"] = "Your geimini api here "
 from agent.intake_chain import create_shs_react_agent, reset_conversation_state, PREBUILT_DATA
 from agent.generate_report import generate_pdf_report
 from agent.send_email import send_report_via_email
