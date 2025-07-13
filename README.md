@@ -4,6 +4,9 @@
 
 ---
 
+![Streamlit_UI](interface/UI.png)
+
+<-------------------------------------->
 ## 🚀 Overview
 
 The SHS Intake Agent is an AI-powered, agentic screener designed for Simple Health Services, a Minnesota nonprofit helping adults with disabilities and seniors access housing support. This tool automates the intake process, evaluates eligibility for housing programs, and delivers professional eligibility reports to staff—**all with a friendly, conversational interface**.
@@ -132,7 +135,11 @@ streamlit run streamlit_ui.py
 ## 📸 Screenshots
 
 ![Streamlit_UI](interface/UI.png)
+<------------------------------------------------------------------------->
+
 ![Agent Think](interface/eligibilty.png)
+<------------------------------------------------------------------------->
+
 ![Mail_Agent](interface/mail.png)
 
 ---
