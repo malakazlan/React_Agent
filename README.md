@@ -131,9 +131,9 @@ streamlit run streamlit_ui.py
 
 ## 📸 Screenshots
 
-![Streamlit_UI](shs_intake_agent/interface/UI.png)
-![Agent Think](shs_intake_agent/interface/eligibilty.png)
-![Mail_Agent](shs_intake_agent/interface/mail.png)
+![Streamlit_UI](interface/UI.png)
+![Agent Think](interface/eligibilty.png)
+![Mail_Agent](interface/mail.png)
 
 ---
 
