@@ -131,7 +131,9 @@ streamlit run streamlit_ui.py
 
 ## 📸 Screenshots
 
-> **Add screenshots of the Gradio and Streamlit UIs here for a professional touch!**
+> **D:\AGENTS\shs_intake_agent\interface\UI interface.png**
+>**D:\AGENTS\shs_intake_agent\interface\eligibilty.png**
+>**D:\AGENTS\shs_intake_agent\interface\mail send by agent .png**
 
 ---
 
